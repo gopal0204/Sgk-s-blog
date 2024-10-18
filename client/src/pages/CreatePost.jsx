@@ -106,7 +106,7 @@ export default function CreatePost() {
             <option value='javascript'>Coding</option>
             <option value='reactjs'>General</option>
             <option value='nextjs'>Projects</option>
-            <option value='nextjs'>core Subjects</option>
+            <option value='nextjs'>Core Subjects</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>
